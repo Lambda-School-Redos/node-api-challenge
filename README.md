@@ -12,7 +12,7 @@ This is an individual assessment, please work on it alone. It is an opportunity 
 
 If the instructions are not clear, please seek support from your TL and Instructor on Slack.
 
-The Minimum Viable Product must be completed in three hours.
+The Minimum Viable Product must be completed in three hours. 
 
 Follow these steps to set up and work on your project:
 
@@ -39,13 +39,13 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
 - [ ] Mention two parts of Express that you learned about this week.
-
+    I enjoyed learning about router as well as the express.json() middleware.
 - [ ] Describe Middleware?
-
+    It allows us to perform logic on data that is passing through an endpoint.
 - [ ] Describe a Resource?
-
+    
 - [ ] What can the API return to help clients know if a request was successful?
-
+    Response status code.
 - [ ] How can we partition our application into sub-applications?
 
 ## Minimum Viable Product
